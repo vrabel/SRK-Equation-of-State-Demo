@@ -14,6 +14,7 @@ MathJax.Hub.Queue(function() {
         all[i].SourceElement().parentNode.className += ' has-jax';
     }
 });
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 
 # SRK Equation of State Demo
 This project is the first in series of exercises as part of the course **Programming for Chemical Engineering Applications** taught at the
